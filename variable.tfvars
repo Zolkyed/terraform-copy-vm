@@ -1,0 +1,13 @@
+count_t = 4
+socket_t = 1
+ram_t = 4096
+vmid_t = 3500
+template_name_t = "test"
+node_t = "pve"
+storage_t = "local-lvm"
+net_int_t = "vmbr0"
+cpu_t = 2
+vlan_tag_t = -1
+disk_t = "40G"
+user_t = "ronny"
+copy_name = "YanniVM"
